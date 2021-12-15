@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377844696677",
+    "project_id": "swazai-assignment",
+    "storage_bucket": "swazai-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377844696677:android:f5b5b05ac96c5dfaad688c",
+        "android_client_info": {
+          "package_name": "com.example.swazai_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377844696677-4jv0ia5d755hooarlmv8tmdnloj8cuhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCfCLncmR51kLypMBcwKX93XdA7dmbl7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377844696677-4jv0ia5d755hooarlmv8tmdnloj8cuhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
